@@ -1,0 +1,26 @@
+.table-panel {
+    margin-top: 40px;
+}
+
+.jumbotron {
+    background-image: url("assets/night-sky.png");
+    color: 	#FFA07A;
+    font-family: Courier New, Courier, monospace;
+    margin-bottom: 0px;
+}
+#clear-div {
+    /* padding-left: 40px; */
+    padding-top: 38px;
+    display: flex; 
+    justify-content: center;
+}
+#pagination-div {
+    display: flex; 
+    justify-content: center;
+}
+
+}
+#headerButton {
+    background-color: 	#white;
+    color: #black;
+}
